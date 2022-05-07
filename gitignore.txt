@@ -1,0 +1,3 @@
+el gitignore que tengo es para todos los archivos .out que se generan al compilar con g++ en ubuntu.
+estoy utilizando linux si usas windows o mac tienes que investigar para ignorar los exe o algun otro archivos 
+que no quieras que lo siga y lo agregas a tu gitignore :* tkm.
