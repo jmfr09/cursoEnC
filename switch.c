@@ -9,19 +9,19 @@ int main(){
     switch (option)
     {
     case 1:
-        printf("elegiste la opcion 1");
+        printf("elegiste el camino de los ducles");
         break;
 
     case 2:
-        printf("escogiste la opcion 2");
+        printf("escogiste el camino de madera");
         break;
 
     case 3:
-        printf("elegiste la opcion 3 padrino esta es la buena");
+        printf("elegiste el camino de gatitos ");
         break;
 
     default:
-        printf("ninguna de las 3 opciones elegistes al clabozo");
+        printf("entonces haz escogido el camino de la muerte.jpg");
         break;
     }
 
